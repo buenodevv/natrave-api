@@ -1,0 +1,5 @@
+Existe um arquivo zip com todos os Assets do projeto, abaixo estão apenas links para o figma e o JSON do Projeto:
+
+Interface no Figma: https://www.figma.com/file/sHIUFoBfSOLs8JlqNqQuhS/Projeto-%E2%80%A2-Na-Trave
+
+JSON dos jogos: https://gist.github.com/brunobertolini/764403491652f9dde7b174eaf1119caf
